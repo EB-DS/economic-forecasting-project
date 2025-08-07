@@ -8,7 +8,7 @@ This project applies machine learning and statistical modeling techniques to exa
 
 By integrating **ARIMA time-series forecasting** and **K-Means clustering**, the project identifies macroeconomic trends and structural groupings across national economies. The analysis serves as both a research contribution and a pedagogical resource for graduate-level economics and data science.
 
----
+
 
 ## Project Structure
 
@@ -19,7 +19,7 @@ The repository includes the following:
 - `Data/`: Cleaned and transformed GDP and population datasets.
 - `Visuals/`: High-resolution figures used in the publication, including clustering and forecast charts.
 
----
+
 
 ## Methodology
 
@@ -33,7 +33,7 @@ The repository includes the following:
 - **K-Means Clustering**: Unsupervised learning on standardized log-transformed GDP and population data.
 - **Visualization**: Python (matplotlib, seaborn, statsmodels).
 
----
+
 
 ## Key Findings
 
